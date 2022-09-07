@@ -1,3 +1,4 @@
+//print an integer(Entered by the user)
 import java.io.*;
 public class HelloWorld
 {
