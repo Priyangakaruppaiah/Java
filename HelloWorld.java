@@ -9,5 +9,4 @@ public class HelloWorld
     int number=reader.nextInt();
     System.out.println("You entered:"+number);
   }
-  
 }
