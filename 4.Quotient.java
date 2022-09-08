@@ -1,4 +1,5 @@
 //Java program to compute Quotient and Remainder
+import java.util.scanner;
 public class QuotientRemainder
 {
   public static void main(String args[])
