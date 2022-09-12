@@ -8,7 +8,7 @@ public class Main
 	    int n1=sc.nextInt();
 	    for(int i=1;i<=10;i++){
 	       int d=n1*i;
-	       System.out.printf("%d * *d = %d \n",n1,i,d);
+	       System.out.printf("%d * %d = %d \n",n1,i,d);
 	    }
 	
 	}
