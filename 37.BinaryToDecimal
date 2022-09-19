@@ -10,19 +10,16 @@ public class Main
 		
 		 System.out.println("Binary to Decimal");
          System.out.println(num + " = " + decimal);
-		
 	}
 	public static int convertBinaryToDecimal(long num) {
     int decimalNumber = 0, i = 0;
     long r;
-    
     while (num != 0) {
       r = num % 10;
       num /= 10;
       decimalNumber += r* Math.pow(2, i);
       ++i;
     }
-    
     return decimalNumber;
   }
 }
