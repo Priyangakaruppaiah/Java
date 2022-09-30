@@ -2,7 +2,7 @@
 import java.util.Calendar;
 public class Main
 {
-	public static void main(String[] args) {
+	public static void main(String[] args){
 		
 		Calendar c1=Calendar.getInstance();
 		Calendar c2=Calendar.getInstance();
