@@ -14,3 +14,9 @@ public class Main
       
 	}
 }
+OUTPUT:
+flower
+flower
+Check if two strings are equal
+Using == operator: false
+Using equals(): true
