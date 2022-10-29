@@ -1,4 +1,3 @@
-// Loop through enum using forEach loop
 enum Size{
     SMALL,LARGE,MEDIUM
 }
@@ -11,6 +10,3 @@ public class Main
          }
 	}
 }
-OUTPUT:
-Access each enum class
-SMALL LARGE MEDIUM 
