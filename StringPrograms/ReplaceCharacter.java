@@ -8,6 +8,7 @@ public class Main
         System.out.println(string);    
     }    
 }
+
 /*
 OUTPUT:
 Once-in-a-blue-moon
