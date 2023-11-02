@@ -1,3 +1,4 @@
+//Binary Search
 class Main{  
  public static void binarySearch(int arr[], int first, int last, int key){  
    int mid = (first + last)/2;  
