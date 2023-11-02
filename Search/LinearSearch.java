@@ -1,3 +1,4 @@
+//Linear Search
 import java.util.Scanner;  
 class Main  
 {  
